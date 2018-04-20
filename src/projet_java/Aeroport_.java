@@ -13,6 +13,10 @@ package projet_java;
 public class Aeroport_ {
        
     public Aeroport_ (){
+        float a=1,b=0;
+        if(a<b){
+            System.out.println("");
+}else System.out.println("");
     }
 
     /**
